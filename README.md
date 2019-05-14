@@ -11,15 +11,11 @@
 [![gitter][gitter-image]][gitter-url]
 
 
-**NPM**
+**Composer**
 
-```sh
-npm install --save normalize.css
 ```
-
-**CDN**
-
-See https://yarnpkg.com/en/package/normalize.css
+composer require heinrichschiller/normalize.css
+```
 
 **Download**
 

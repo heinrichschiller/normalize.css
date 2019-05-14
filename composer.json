@@ -1,0 +1,12 @@
+{
+    "name": "heinrichschiller/normalize.css",
+    "description": "A modern alternative to CSS resets http://necolas.github.io/normalize.css/",
+    "keywords": ["css","normalize","normalize.css"],
+    "homepage": "https://github.com/heinrichschiller/normalize.css",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Heinrich Schiller"
+        }
+    ]
+}
